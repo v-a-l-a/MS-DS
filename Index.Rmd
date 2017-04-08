@@ -2,7 +2,7 @@
 title: "My Learning Diary"
 output:
   html_document:
-  theme: yeti
+    theme: yeti
 ---
 
 ## Introduction
