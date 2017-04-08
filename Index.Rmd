@@ -1,0 +1,12 @@
+---
+title: "My Learning Diary"
+output:
+  html_document:
+  theme: yeti
+---
+
+## Introduction
+
+In this diary I summarise key knowledge and skills that I have gained through undertaking the [Microsoft Professional Program Certificate in Data Science](https://www.edx.org/microsoft-professional-program-certficate-data-science).
+
+## z
